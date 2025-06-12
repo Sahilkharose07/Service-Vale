@@ -100,6 +100,28 @@ const styles = StyleSheet.create({
     color: "#a0aec0",
     marginTop: 8,
   },
+  unreadCard: {
+  backgroundColor: '#f0f4ff',
+  borderLeftWidth: 3,
+  borderLeftColor: '#5E72E4',
+},
+unreadBadge: {
+  width: 8,
+  height: 8,
+  borderRadius: 4,
+  backgroundColor: '#5E72E4',
+  position: 'absolute',
+  right: 0,
+  top: 0,
+},
+headerActions: {
+  flexDirection: 'row',
+  gap: 15,
+  alignItems: 'center',
+},
+testButton: {
+  padding: 5,
+},
 });
 
 export default styles;
