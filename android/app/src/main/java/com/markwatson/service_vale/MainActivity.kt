@@ -1,4 +1,4 @@
-package com.markwatson.service_vale
+package com.service.servicevale
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

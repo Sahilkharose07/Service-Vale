@@ -1,4 +1,4 @@
-package com.markwatson.service_vale
+package com.service.servicevale
 
 import android.app.Application
 import android.content.res.Configuration

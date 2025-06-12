@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "465734495923",
-    "project_id": "push-notification-service-vale",
-    "storage_bucket": "push-notification-service-vale.firebasestorage.app"
+    "project_number": "326227286943",
+    "project_id": "servicenotification-c3e4e",
+    "storage_bucket": "servicenotification-c3e4e.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:465734495923:android:40c17ffca1a76a8909cac6",
+        "mobilesdk_app_id": "1:326227286943:android:f26118d718a32284e8bbaa",
         "android_client_info": {
-          "package_name": "com.markwatson.service_vale"
+          "package_name": "com.service.servicevale"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDHRwsIdP75QDJeUNMa1BYE9Ck3rgHGCD4"
+          "current_key": "AIzaSyACZmPHzb2X4Ftz32_UhDB9GTI8acoiIeU"
         }
       ],
       "services": {
